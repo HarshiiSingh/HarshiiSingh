@@ -12,7 +12,7 @@ I'm currently open to software development opportunities — especially in front
 ---
 
 🛠️ **Tech Stack**
-- **Languages:** JavaScript, Python, Java,
+- **Languages:** JavaScript, Python, Java
 - **Frontend:** React, HTML5, CSS3, Vite, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Tools:** Git, GitHub, Webpack, Postman
